@@ -1,7 +1,7 @@
 {
-  "name": "Trillo",
+  "name": "Nexter",
   "version": "1.0.0",
-  "description": "Trillo App",
+  "description": "Real Estate Company Theme",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss dist/css/style.css -w",
